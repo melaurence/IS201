@@ -1,0 +1,11 @@
+header{background-color: pink; height: 300px; padding: 120px}
+   h1{text-align: center; color: white;}
+h2{text-align: center; color:pink;
+    border: 3px solid #915c00; padding: 10px; margin: 10px;}
+    #top{color: pink}
+    .ExcitedText {color: pink; font-weight: bold}
+    body{ background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+    
+    li {font-family:Georgia, 'Times New Roman', Times, serif; font-size: 20px;}
+.subheading{font-style:italic; text-align: center; color: #915c00; }
